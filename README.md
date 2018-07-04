@@ -1,8 +1,8 @@
 # Configuration de logstash:
 ***
-	## Installation:
+	# Installation:
 		sudo apt-get install logstash
-	## Configuration:
+	# Configuration:
 		-Aller dans: user/share/logstash
 		-Créer un fichier my_conf.conf
 		-
