@@ -1,5 +1,8 @@
-# hello-world
-Apprentissage
-
-
-Ceci est un essai
+# Configuration de logstash:
+***
+	## Installation:
+		sudo apt-get install logstash
+	## Configuration:
+		-Aller dans: user/share/logstash
+		-Créer un fichier my_conf.conf
+		-
